@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ffe08f68cb6eeab7c9f6c72fbb9644c5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\c81d374b3aecc743abf5a0b705640dc7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\faa2887eeb7dbf1b26e024a209a6e8bb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\dd7d5cfbccfa98db87b927faaf229f48\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\affc3ece3c3df9cfb5d36fc5a7e367fc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4fe605bfb8e05c34815c86e865d3c1e5\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cdd9d75a3bff6ae89a378af4938e0a58\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d06820d260749f0d2022bdc8e83e5f2e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2236c179c09912ace40dcd969095e69a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e61f7f17ef49af10cba2718b8b068e69\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a0300ad0bcb63de0f2fa5952d3179f6e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\23c2fb002764d06c7c008e8a5b1ac24a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\21ba92fc430c884672e57884e71cc60c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d8c066b00eb86afeb3b5f18fab536793\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:5:22-64
+supports-screens
+ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:7:5-11:40
+	android:largeScreens
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:8:9-36
+	android:smallScreens
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:10:9-37
+	android:normalScreens
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:9:9-37
+	android:xlargeScreens
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:11:9-37
+application
+ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:13:5-28:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ffe08f68cb6eeab7c9f6c72fbb9644c5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ffe08f68cb6eeab7c9f6c72fbb9644c5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\c81d374b3aecc743abf5a0b705640dc7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\c81d374b3aecc743abf5a0b705640dc7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\faa2887eeb7dbf1b26e024a209a6e8bb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\faa2887eeb7dbf1b26e024a209a6e8bb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\dd7d5cfbccfa98db87b927faaf229f48\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\dd7d5cfbccfa98db87b927faaf229f48\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\affc3ece3c3df9cfb5d36fc5a7e367fc\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\affc3ece3c3df9cfb5d36fc5a7e367fc\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cdd9d75a3bff6ae89a378af4938e0a58\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cdd9d75a3bff6ae89a378af4938e0a58\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d06820d260749f0d2022bdc8e83e5f2e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d06820d260749f0d2022bdc8e83e5f2e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2236c179c09912ace40dcd969095e69a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2236c179c09912ace40dcd969095e69a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e61f7f17ef49af10cba2718b8b068e69\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e61f7f17ef49af10cba2718b8b068e69\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a0300ad0bcb63de0f2fa5952d3179f6e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a0300ad0bcb63de0f2fa5952d3179f6e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\23c2fb002764d06c7c008e8a5b1ac24a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\23c2fb002764d06c7c008e8a5b1ac24a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\21ba92fc430c884672e57884e71cc60c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\21ba92fc430c884672e57884e71cc60c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d8c066b00eb86afeb3b5f18fab536793\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d8c066b00eb86afeb3b5f18fab536793\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.yellowcode.tournote.activities.MainActivity
+ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:20:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.yellowcode.tournote.activities.ContactActivity
+ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:27:9-73
+	android:name
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml:27:19-61
+uses-sdk
+INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ffe08f68cb6eeab7c9f6c72fbb9644c5\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ffe08f68cb6eeab7c9f6c72fbb9644c5\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\c81d374b3aecc743abf5a0b705640dc7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\c81d374b3aecc743abf5a0b705640dc7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\faa2887eeb7dbf1b26e024a209a6e8bb\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\faa2887eeb7dbf1b26e024a209a6e8bb\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\dd7d5cfbccfa98db87b927faaf229f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\dd7d5cfbccfa98db87b927faaf229f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\affc3ece3c3df9cfb5d36fc5a7e367fc\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\affc3ece3c3df9cfb5d36fc5a7e367fc\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4fe605bfb8e05c34815c86e865d3c1e5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4fe605bfb8e05c34815c86e865d3c1e5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cdd9d75a3bff6ae89a378af4938e0a58\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\cdd9d75a3bff6ae89a378af4938e0a58\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d06820d260749f0d2022bdc8e83e5f2e\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d06820d260749f0d2022bdc8e83e5f2e\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2236c179c09912ace40dcd969095e69a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2236c179c09912ace40dcd969095e69a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e61f7f17ef49af10cba2718b8b068e69\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e61f7f17ef49af10cba2718b8b068e69\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a0300ad0bcb63de0f2fa5952d3179f6e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a0300ad0bcb63de0f2fa5952d3179f6e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\23c2fb002764d06c7c008e8a5b1ac24a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\23c2fb002764d06c7c008e8a5b1ac24a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\21ba92fc430c884672e57884e71cc60c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\21ba92fc430c884672e57884e71cc60c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d8c066b00eb86afeb3b5f18fab536793\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d8c066b00eb86afeb3b5f18fab536793\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ffe08f68cb6eeab7c9f6c72fbb9644c5\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+		ADDED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Subjects\di_dong_2\TourNote\TourNote\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ffe08f68cb6eeab7c9f6c72fbb9644c5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\c81d374b3aecc743abf5a0b705640dc7\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:preference-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\preference-v7-25.3.1.aar\c81d374b3aecc743abf5a0b705640dc7\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\faa2887eeb7dbf1b26e024a209a6e8bb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\faa2887eeb7dbf1b26e024a209a6e8bb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\dd7d5cfbccfa98db87b927faaf229f48\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\dd7d5cfbccfa98db87b927faaf229f48\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\affc3ece3c3df9cfb5d36fc5a7e367fc\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\affc3ece3c3df9cfb5d36fc5a7e367fc\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4fe605bfb8e05c34815c86e865d3c1e5\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4fe605bfb8e05c34815c86e865d3c1e5\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d06820d260749f0d2022bdc8e83e5f2e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\d06820d260749f0d2022bdc8e83e5f2e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2236c179c09912ace40dcd969095e69a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2236c179c09912ace40dcd969095e69a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e61f7f17ef49af10cba2718b8b068e69\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\e61f7f17ef49af10cba2718b8b068e69\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a0300ad0bcb63de0f2fa5952d3179f6e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a0300ad0bcb63de0f2fa5952d3179f6e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\23c2fb002764d06c7c008e8a5b1ac24a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\23c2fb002764d06c7c008e8a5b1ac24a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\21ba92fc430c884672e57884e71cc60c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\21ba92fc430c884672e57884e71cc60c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d8c066b00eb86afeb3b5f18fab536793\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d8c066b00eb86afeb3b5f18fab536793\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ffe08f68cb6eeab7c9f6c72fbb9644c5\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Phu Vo\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\ffe08f68cb6eeab7c9f6c72fbb9644c5\AndroidManifest.xml:26:9-47
