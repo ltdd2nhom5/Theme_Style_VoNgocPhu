@@ -1,4 +1,4 @@
-#Mon Feb 25 19:26:17 KRAT 2019
+#Tue Feb 26 20:17:40 KRAT 2019
 base.0=E\:\\Subjects\\di_dong_2\\TourNote\\TourNote\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
 path.0=classes.dex
 renamed.0=classes.dex

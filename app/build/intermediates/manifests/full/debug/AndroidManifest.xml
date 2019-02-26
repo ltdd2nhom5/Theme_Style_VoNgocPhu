@@ -28,7 +28,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/MyTheme1" >
         <activity android:name="com.yellowcode.tournote.activities.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
